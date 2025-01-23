@@ -1,0 +1,8 @@
+#lemby
+DOMAIN-SUFFIX,lemby.me
+IP-CIDR,45.134.50.17/32,no-resolve
+IP-CIDR,35.215.164.215/32,no-resolve
+IP-CIDR,188.245.45.217/32,no-resolve
+IP-CIDR,77.90.7.185/32,no-resolve
+#二刺螈
+DOMAIN-SUFFIX,nijigem.by
