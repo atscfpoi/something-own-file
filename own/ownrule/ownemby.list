@@ -6,3 +6,5 @@ IP-CIDR,188.245.45.217/32,no-resolve
 IP-CIDR,77.90.7.185/32,no-resolve
 #二刺螈
 DOMAIN-SUFFIX,nijigem.by
+#JingzhePro
+DOMAIN-SUFFIX,jingzhe.pro
