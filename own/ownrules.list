@@ -4,8 +4,3 @@ DOMAIN-SUFFIX,atscfpoi.top
 DOMAIN-SUFFIX,zhusiot.com
 DOMAIN-SUFFIX,gdmusah.com
 IP-CIDR,47.238.148.52/32,no-resolve
-#惜映nas
-DOMAIN-SUFFIX,seeinnas.com
-DOMAIN-SUFFIX,xiyingnas.com
-#pikpak下载直连域名
-DOMAIN-SUFFIX,mypikpak.com
