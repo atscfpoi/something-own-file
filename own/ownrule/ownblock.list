@@ -5,11 +5,6 @@ DOMAIN,marketing.mangacopy.com
 DOMAIN,ad-channel.diwodiwo.xyz
 DOMAIN,ad-display.diwodiwo.xyz
 #jm广告域名
-DOMAIN-SUFFIX,jmapiproxy.cc
-DOMAIN-SUFFIX,jmapiproxy1.cc
-DOMAIN-SUFFIX,jmapiproxy2.cc
-DOMAIN-SUFFIX,jmapiproxy3.cc
-DOMAIN-SUFFIX,jmapiproxy4.cc
-DOMAIN-SUFFIX,jmapiproxy5.cc
 DOMAIN-SUFFIX,cdnmhwscc.cc
 DOMAIN-SUFFIX,cdnmhwscc.org
+DOMAIN-SUFFIX,magsrv.com
