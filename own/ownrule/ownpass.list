@@ -16,3 +16,6 @@ DOMAIN-SUFFIX,appplay.org
 DOMAIN-SUFFIX,duoqin.com
 #方糖直连
 DOMAIN-SUFFIX,ftqq.com
+#api们
+#mnapi
+DOMAIN,api.mnapi.com
