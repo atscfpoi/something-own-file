@@ -20,3 +20,6 @@ DOMAIN-SUFFIX,ftqq.com
 #mnapi
 DOMAIN,api.mnapi.com
 DOMAIN,www.mnapi.com
+#火山方舟api
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,volcengine.com
